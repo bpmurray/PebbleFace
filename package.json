@@ -1,0 +1,30 @@
+{
+    "author": "brendanpmurray@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "watchface-1",
+    "pebble": {
+        "capabilities": [
+            "location",
+            "configurable"
+        ],
+        "displayName": "Watchface 1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "17642228-d4a2-46cb-babc-5a27166cf3a1",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
