@@ -2,13 +2,13 @@
     "author": "brendanpmurray@gmail.com",
     "dependencies": {},
     "keywords": [],
-    "name": "watchface-1",
+    "name": "SeaWatch",
     "pebble": {
         "capabilities": [
             "location",
             "configurable"
         ],
-        "displayName": "Watchface 1",
+        "displayName": "Sea Watch",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",
