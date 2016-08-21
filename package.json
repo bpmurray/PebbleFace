@@ -13,7 +13,18 @@
         "messageKeys": [],
         "projectType": "native",
         "resources": {
-            "media": []
+           "media": [ {
+             "type":"font",
+             "name":"FONT_PERFECT_DOS_48",
+             "file":"fonts/perfect-dos-vga.ttf",
+             "compatibility": "2.7"
+           },
+           {
+             "type":"font",
+             "name":"FONT_PERFECT_DOS_20",
+             "file":"fonts/perfect-dos-vga.ttf",
+             "compatibility": "2.7"
+           } ]
         },
         "sdkVersion": "3",
         "targetPlatforms": [
